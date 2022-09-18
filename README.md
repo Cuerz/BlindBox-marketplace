@@ -27,7 +27,7 @@ npm run dev
 # 打包
 npm run build
 
-view url:  http://127.0.0.1:8080
+view url: http://127.0.0.1:8080
 ```
 
 ## PAGE
